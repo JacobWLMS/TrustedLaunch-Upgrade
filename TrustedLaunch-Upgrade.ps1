@@ -1,8 +1,8 @@
 # Resource Group name
-$resourceGroup = "rg-test-applications-uks"
+$resourceGroup = "RG-NAME"
 
 # Uncomment for single VM
-$vmName = "vm-az-versatest"
+$vmName = "VM-NAME"
 
 # Uncomment for all VMs in resource group
 #$vms = Get-AzVM -ResourceGroupName $resourceGroup
